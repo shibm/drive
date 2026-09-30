@@ -1,0 +1,6 @@
+{
+  "name": "CloudDrive - Fullstack File Storage",
+  "description": "A Google Drive clone with nested folders, drag-and-drop file uploads, local block storage, instant search, and permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
